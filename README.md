@@ -21,6 +21,6 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/rushikesh-kaname-babb031a1/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Rushikesh%20Kaname-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/__r_s___s/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-__r_s___s-blue?style=flat-square&logo=instagram"></a>
+<a href="https://www.instagram.com/__r_s____s/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-__r_s___s-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:rkaname88888@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-rkaname88888@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
